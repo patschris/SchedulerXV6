@@ -31,7 +31,7 @@ We made 5 small executable programs in order to test our scheduler:
 We had to make some changes in order to include the newly created files.
 
 ## Files
-In this repository, you can see only the files that I have changed in xv6 implementation and the newly created files. To test the scheduler you have to download the xv6 source code and move this source code inside the xv6 folder.
+In this repository, you can see only the files that I have changed in xv6 implementation and the newly created files. To test the scheduler you have to download the [xv6 source code](https://github.com/mit-pdos/xv6-public) and move this code inside the xv6 folder.
 
 ## References
 [1] https://pdos.csail.mit.edu/6.828/2017/xv6/xv6-rev10.pdf \
